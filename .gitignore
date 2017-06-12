@@ -4,3 +4,4 @@ node_modules
 .sass-cache/
 .vscode
 .vscode/
+catch-of-the-day/npm-debug.log
